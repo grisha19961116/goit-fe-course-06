@@ -337,45 +337,33 @@ body {
 }
 
 .overlay:hover .overlay-ul-li:hover {
-    background: #95e1d3;
+    background: #00e9be;
+    width: 56px;
+    height: 56px;
+}
+
+.overlay-link {
+    display: block;
+    width: 56px;
+    height: 56px;
+    text-decoration: none;
+    background-color: rgb(252, 227, 138, 0.5);
 }
 
 .overlay-ul-li-a-facebook {
-    display: block;
-    width: 56px;
-    height: 56px;
-    background-image: url(../img/facebook\ \(1\).png);
-    text-decoration: none;
-    background-color: rgb(252, 227, 138, 0.9);
-
+    background-image: url(../img/facebook.png);
 }
 
 .overlay-ul-li-a-twitter {
-    display: block;
-    width: 56px;
-    height: 56px;
-    background-image: url(../img/twitter\ \(1\).png);
-    text-decoration: none;
-    background-color: rgb(252, 227, 138);
+    background-image: url(../img/twitter.png);
 }
 
 .overlay-ul-li-a-pritier {
-    display: block;
-    width: 56px;
-    height: 56px;
-    background-image: url(../img/pritier\ \(1\).png);
-    text-decoration: none;
-    background-color: rgb(252, 227, 138);
+    background-image: url(../img/pritier.png);
 }
 
 .overlay-ul-li-a-instagram {
-    display: block;
-    width: 56px;
-    height: 56px;
-    background-image: url(../img/instagram\ \(1\).png);
-    text-decoration: none;
-    background-color: rgb(252, 227, 138);
-
+    background-image: url(../img/instagram.png);
 }
 
 .team-ul {
