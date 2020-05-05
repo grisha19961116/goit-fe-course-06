@@ -241,7 +241,9 @@ body {
   text-align: center;
   text-decoration: none;
 }
-
+.footer-form {
+  display: flex;
+}
 .footer-button {
   width: 150px;
   height: 40px;
